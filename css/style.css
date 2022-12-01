@@ -1,9 +1,9 @@
 /********** Template CSS **********/
 :root {
-    --primary: #FF800F;
-    --secondary: #001064;
-    --light: #F6F7F8;
-    --dark: #010A35;
+    --primary: #6fb3b3;
+    --secondary: #a189bd;
+    --light: #ffffff;
+    --dark: rgba(12, 12, 12);
 }
 
 .back-to-top {
@@ -33,13 +33,14 @@
 /*** Button ***/
 .btn {
     transition: .5s;
+    color: #000000;
 }
 
 .btn.btn-primary,
 .btn.btn-outline-primary:hover,
 .btn.btn-secondary,
 .btn.btn-outline-secondary:hover {
-    color: #FFFFFF;
+    color: #ffffff;
 }
 
 .btn.btn-primary:hover {
