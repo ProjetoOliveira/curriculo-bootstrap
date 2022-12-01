@@ -1,3 +1,3 @@
 # curriculo-bootstrap
 
-https://projetooliveira.github.io/curriculobootstrap/
+https://projetooliveira.github.io/curriculo-bootstrap/
